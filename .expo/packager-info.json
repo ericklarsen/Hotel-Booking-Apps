@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://z8-iap.ericklarsenn.projects.exp.direct",
+  "packagerNgrokUrl": "https://packager.z8-iap.ericklarsenn.projects.exp.direct",
+  "ngrokPid": 16444,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null
+}
