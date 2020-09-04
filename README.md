@@ -1,0 +1,2 @@
+## Hotel Booking Apps
+This is a Hotel Booking Application. I made this application when I did an internship at Swiss-Belinn Hotel. I’m using React Native Framework to build the front end of the apps and then for the back end I'm using PHP language to transfer data in json / API. Pekanbaru. I developed a mobile application for booking rooms, meeting rooms and grand ballroom rentals.
